@@ -1,4 +1,4 @@
-# Conso: Constraint Solver
+# CSP Solver: Constraint Solver
 
 A constraint solver written in Java. 
 
@@ -12,7 +12,7 @@ A constraint solver written in Java.
 
 # Pre-Requisites
 
-- java-sdk (tested using version 17.0.8.1 on the lab machines)
+- java-sdk (tested using version 17.0.8.1)
 - maven
 
 # Compilation Instructions
