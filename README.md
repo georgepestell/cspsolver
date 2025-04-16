@@ -1,6 +1,6 @@
-# CSP Solver: Constraint Solver
+# CSP Solver
 
-A constraint solver written in Java. 
+A constraint solver written in Java.
 
 # Features
 
